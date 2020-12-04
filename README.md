@@ -1,5 +1,3 @@
-# Ip_Quiz_Executable
+# Ip_Quiz_Apk
 
-IP Quiz:
-
-Es werden zuf‰llige Ip-Adressen Generiert und du musst tippen um welchen Adressen Typ es sich handelt.
+Es werden zuf√§llige Ip-Adressen Generiert und du musst tippen um welche Art von Adresse es sich handelt.
